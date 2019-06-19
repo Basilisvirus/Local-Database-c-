@@ -1,0 +1,22 @@
+﻿  RMAfunctions.cpp
+  main(reading text, storing to variables, cout, changing title of window based on tex, using button.cpp
+  main.cpp
+main.cpp(121): error C2440: '=': cannot convert from 'std::basic_istream<char,std::char_traits<char>>' to 'bool'
+  main.cpp(121): note: No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+main.cpp(163): error C2440: '=': cannot convert from 'std::basic_istream<char,std::char_traits<char>>' to 'bool'
+  main.cpp(163): note: No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+main.cpp(208): error C2440: '=': cannot convert from 'std::basic_istream<char,std::char_traits<char>>' to 'bool'
+  main.cpp(208): note: No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+main.cpp(130): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h(1316): note: see declaration of 'itoa'
+main.cpp(143): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h(1316): note: see declaration of 'itoa'
+main.cpp(173): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h(1316): note: see declaration of 'itoa'
+main.cpp(187): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h(1316): note: see declaration of 'itoa'
+main.cpp(218): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h(1316): note: see declaration of 'itoa'
+main.cpp(232): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h(1316): note: see declaration of 'itoa'
+  Generating Code...
