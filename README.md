@@ -6,3 +6,7 @@ Using c++ i made a program that helps you save names and cell phone numbers of i
 Having any issues with the project? contact me at basilisvirus@hotmail.com
 
 Προγραμμάτησα εφαρμογή καταχώρησης και αναζήτησης πληροφοριών πελατών με βάση δεσομένων τον ίδιο υπολογιστή που τρέχει το πρόγραμμα
+
+
+[![c.png](https://i.postimg.cc/T3qC7yDT/c.png)](https://postimg.cc/PCJWN5y7)
+
